@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/promesse-du-matin/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Promesse Du Matin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/promesse-du-matin/) |
+| **Get License** | [Secure Licensing Rights for Promesse Du Matin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/promesse-du-matin/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dans la nuit parisienne, tu rayonnes dans le noir,
+> Viens dans ma belle caisse, on s'évade ce soir.
+> Ton parfum sur ma veste, c'est un frisson divin,
+> Je te veux dans mes bras jusqu'au petit matin.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
